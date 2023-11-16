@@ -1,0 +1,38 @@
+.head
+   {
+   font-size:25px;
+   
+   }
+   .pa
+   {
+   font-size:100px;
+   margin-top:50px;
+   margin-left:30px;
+   font-family:fantasy;
+   color:red;
+   
+   }
+   .para{
+    margin-left:30px;
+	font-size:50px;
+	color:gray;
+	
+   }
+   .par{
+    margin-left:30px;
+	font-size:60px;
+	color:lime;
+	
+   }
+   .ft
+    {
+   background-color:black;
+   color:white;
+   margin:0;
+    }
+   .pro:hover{
+     background-color:black;
+     color:white;
+     margin:0;
+   } 
+   
